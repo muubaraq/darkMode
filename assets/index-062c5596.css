@@ -1,0 +1,1 @@
+.App{transition:background-color .3s,color .3s;text-align:center;padding:2rem}.App.light{background-color:#fff;color:#000}.App.dark{background-color:#000;color:#fff}.mode-toggle{position:absolute;top:20px;right:20px}header{font-size:2rem;margin-bottom:1rem}main{font-size:1.2rem}
